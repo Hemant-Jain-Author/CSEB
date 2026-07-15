@@ -1,0 +1,23 @@
+Line 1 : XML / Assets Version
+Line 2 : Notification Version (optional)
+Line 3 : Notification Title (optional)
+Line 4 : Notification Text (optional)
+
+Examples:
+
+1
+--------------------------
+XML Version = 1
+No notification
+
+
+2
+1
+New DAA Videos Available
+Dynamic Programming videos have been uploaded.
+
+
+2
+2
+New BCE Book Released
+Basic Computer Engineering book is now available.
