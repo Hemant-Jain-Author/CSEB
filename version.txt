@@ -1,5 +1,5 @@
 Supported : true
-XmlVersion : 6
+XmlVersion : 7
 NotificationVersion : 2
 NotificationTitle : BCE Book Available
 NotificationText : Working on BCE videos and will be available soon. 
